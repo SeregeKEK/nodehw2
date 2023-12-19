@@ -1,0 +1,13 @@
+{
+  "name": "genpass",
+  "version": "1.0.0",
+  "description": "Создание пароля",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "SeregeKEK",
+  "repository": "https://github.com/SeregeKEK/nodehw2",
+  "license": "ISC"
+}
