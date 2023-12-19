@@ -1,5 +1,5 @@
 {
-  "name": "genpass",
+  "name": "genpass_kek",
   "version": "1.0.0",
   "description": "Создание пароля",
   "main": "index.js",
